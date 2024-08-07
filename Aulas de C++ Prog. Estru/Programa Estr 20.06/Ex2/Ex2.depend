@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718887143 source:c:\users\aluno\desktop\programa estr 20.06\ex2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
